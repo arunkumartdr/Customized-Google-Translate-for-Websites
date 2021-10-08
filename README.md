@@ -24,15 +24,29 @@ First step: Add this script tag to you webpage
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 ```
 
-Second step: Add this style tag to you webpage
+Second step: Initialize Translate with this code
+
+```sh
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+</script>
+```
+
+Third step: Add this style tag to you webpage
 
 ```sh
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/arunkumartdr/Customized-Google-Translate-for-Websites@1.0.0/gtranslate.css">
 ```
 
-Third step: Add Some Content to your site
+Fourth step: Add Html tag and Some Content to your site
 
-Fourth step: Run the site in browser and test it
+```sh
+<div id="google_translate_element"></div>
+```
+
+Fifth step: Run the site in browser and test it
 
 ## License
 
