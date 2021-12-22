@@ -1,4 +1,4 @@
-# Custom Google Translate For Websites
+# Custom Google Translate For Websites  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farunkumartdr%2FCustomized-Google-Translate-for-Websites&count_bg=%2331349A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 - GOOGLE TRANSLATE FOR WEBSITES WITHOUT POWERED BY TEXT AND GOOGLE LOGO AND SELECT TAG CSS CUSTOMIZED
 
 [![](https://data.jsdelivr.com/v1/package/gh/arunkumartdr/Customized-Google-Translate-for-Websites/badge)](https://www.jsdelivr.com/package/gh/arunkumartdr/Customized-Google-Translate-for-Websites)
